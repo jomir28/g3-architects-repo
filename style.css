@@ -282,7 +282,7 @@ footer {
 
     nav,
     .teams-container,
-    .sponsor-icon-container {
+    .sponsor-icon-container, .features {
         flex-direction: column;
     }
 
